@@ -19,14 +19,6 @@ public class Cipher {
 
     }
 
-    public String encrypt(String string, int shift) {
-        return crypt(string, shift);
-    }
-
-    public String decrypt(String string, int shift) {
-        return crypt(string, shift);
-    }
-
     public char shiftCharacter(char c, int shift) {
 
         if (!Character.isAlphabetic(c)) {

@@ -41,4 +41,3 @@ public class ROT13 extends Cipher {
 
 
 // Caesar - make a subclass of ROT13 that implements the famous caesar cipher.
-// Create you own cipher, using a different set of*/
