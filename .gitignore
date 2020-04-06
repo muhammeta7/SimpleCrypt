@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
+target
 
+/Crypto/Crypto.iml
 # Log file
 *.log
 
